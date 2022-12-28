@@ -17,3 +17,5 @@ video WIP
 
 ### DevFest Berlin, 2014
 https://2014.devfest-berlin.de/#/2014/agenda/session/1416661200000_casino
+
+https://www.youtube.com/watch?v=O_I6mABxzsY&list=PLvy7Wc3duDOZtLhioqK83S-VhAi9EeKkQ&index=3
